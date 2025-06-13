@@ -43,7 +43,7 @@ Participant responses were transcribed, and a codebook was developed to thematic
 
 Our analysis involved a rigorous process of codebook refinement and theme weight calculation to interpret the interview data.
 
-![Codebook Process Diagram](https://raw.githubusercontent.com/Venkatanaveenkumar14/Human-Attentions-on-Deep-Fake-Media/main/project_images/Figure%201.png)
+![Codebook Process Diagram](https://github.com/yourusername/Human-Attentions-on-Deep-Fake-Media/main/project_images/Figure%201.png)
 *Figure 1: The process used for codebook refinement and theme weight calculation.*
 
 ---
@@ -66,12 +66,12 @@ The attention heatmaps below, generated from participants' self-reported focus a
 
 **Phase 1 (No Warning):** Attention is generally focused on the speaker's face as a whole.
 
-![Phase 1 Heatmap](https://raw.githubusercontent.com/Venkatanaveenkumar14/Human-Attentions-on-Deep-Fake-Media/main/project_images/Figure%206.png)
+![Phase 1 Heatmap](https://github.com/yourusername/Human-Attentions-on-Deep-Fake-Media/main/project_images/Figure%206.png)
 *Figure 2: Attention heatmap from Group 1 (Phase 1), showing focus on the face and background.*
 
 **Phase 2 (With Warning):** After a warning, attention becomes more dispersed and targeted, focusing on specific "suspicious" elements like the mouth, hands, or subtitles, even in a real video.
 
-![Phase 2 Heatmap](https://raw.githubusercontent.com/Venkatanaveenkumar14/Human-Attentions-on-Deep-Fake-Media/main/project_images/Figure%2011.png)
+![Phase 2 Heatmap](https://github.com/yourusername/Human-Attentions-on-Deep-Fake-Media/main/project_images/Figure%2011.png)
 *Figure 3: Attention heatmap from Group 6 (Phase 2), showing fragmented focus on the mouth, hands, and subtitles.*
 
 ---
